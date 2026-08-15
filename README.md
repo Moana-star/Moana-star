@@ -27,9 +27,8 @@ Computer Science Student & Technical SEO Content Writer focused on system archit
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Moana-star&show_icons=true&theme=tokyonight" alt="Moana's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moana-star&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Moana-star&show_icons=true&theme=tokyonight" alt="Moana's GitHub Stats" width="60%" />
 </p>
 
 ---
@@ -38,4 +37,4 @@ Computer Science Student & Technical SEO Content Writer focused on system archit
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naom-kenagwa-493107403)
 [![Upwork](https://img.shields.io/badge/Upwork-6EC700?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01e2b0a806596f8275)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://Moana-star.github.io/Naom-Bosibori.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://github.com/Moana-star?tab=repositories)
