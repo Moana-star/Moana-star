@@ -23,7 +23,7 @@
 
 ## 🌸 About Me
 
-I'm **Moana**, a Computer Science student and freelance **Technical SEO Content Writer & Copywriter** with a growing focus on **AI search, Generative Engine Optimization (GEO), technical documentation, and software architecture content**.
+I'm **Naom**, a Computer Science student and freelance **Technical SEO Content Writer & Copywriter** with a growing focus on **AI search, Generative Engine Optimization (GEO), technical documentation, and software architecture content**.
 
 I enjoy working where **technology, content, and search intersect**.
 
