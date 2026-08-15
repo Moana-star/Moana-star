@@ -38,4 +38,4 @@ Computer Science Student & Technical SEO Content Writer focused on system archit
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naom-kenagwa-493107403)
 [![Upwork](https://img.shields.io/badge/Upwork-6EC700?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01e2b0a806596f8275)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://Moana-star.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://Moana-star.github.io/Naom-Bosibori.github.io)
