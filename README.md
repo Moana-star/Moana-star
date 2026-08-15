@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋🏽 Hello, I'm Moana
+# 👋🏽 Hello, I'm Naom
 
 ### 💻 Computer Science Student | ✍🏽 Technical SEO Content Writer | 🚀 GEO & AI Search Strategist
 
