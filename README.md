@@ -1,13 +1,13 @@
 <div align="center">
   <h1>Hello! I'm Moana 👋</h1>
-  <p><i>Computer Science Student & Technical SEO Content Writer</i></p>
+  <p><i>Computer Science Student | Technical SEO Content Writer & Copywriter ✍️</i></p>
 </div>
 
 ### 📌 About Me
-- 🎓 Pursuing a B.Sc. in Computer Science
-- ✍️ Technical Content Writer & Copywriter
-- 💻 Building projects in C, Python, and JavaScript
-- 🎯 Focused on GEO strategies & clear developer documentation
+- 🎓 **Pursuing a B.Sc. in Computer Science**
+- ✍️ **Freelance Technical SEO Content Writer & Copywriter**
+- 💻 **Building projects in** C, Python, and JavaScript
+- 🎯 **Focused on** Generative Engine Optimization (GEO) & clear documentation
 
 ---
 
@@ -34,7 +34,6 @@
 
 ---
 
-### 📬 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naom-kenagwa-493107403)
-[![Upwork](https://img.shields.io/badge/Upwork-6EC700?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01e2b0a806596f8275)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://github.com/Moana-star?tab=repositories)
+### 💬 Dev Quote
+> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*  
+> — **Martin Fowler**
